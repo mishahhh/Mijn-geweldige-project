@@ -8,6 +8,27 @@ h1 {
     color: white;
 }
 
-body {
-    background-image: url(C:\Users\misha\OneDrive\Documenten\awesome\my-awesome-project\awesome\images\kermit.jpeg);
+div.speciaal:hover { background: green; }
+div.speciaal:hover { background: red; }
+
+div { border: 10px solid green; }
+div {
+    margin: 30px;
+}
+.value:hover {
+        border-width: 3px;
+}
+#MyRect:hover {
+    stroke: black;
+    fill: blue;
+  }
+
+  #MyRect {
+    fill: red;
+    stroke: black;
+  }
+
+#sws {
+    fill: red;
+    stroke: black;
 }
